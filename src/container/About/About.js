@@ -21,7 +21,7 @@ const About = () => {
             <h2 className='head-text'>I
                 <span> Love </span>
                 <br />
-                Being
+                Being <span style={{ textTransform: 'lowercase', color: 'black' }}>a</span>
                 <span> Developer </span>
             </h2>
             <div className='app__profiles'>
